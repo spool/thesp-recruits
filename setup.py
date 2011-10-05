@@ -5,7 +5,7 @@ setup(name='recruits',
         description='App for recruiting oxford thespians.',
         author='Griffith Rees',
         packages=['recruits'],
-        install_requires='form_utils',
+        install_requires='django-form-utils',
         )
 
 
